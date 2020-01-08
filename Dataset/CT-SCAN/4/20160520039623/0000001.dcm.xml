@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImageInfo>
+	<Set>
+		<StudayUID>1.2.840.1413.2016.5.24.10.2016052003.99623</StudayUID>
+		<SerialUID>1.2.840.113704.1.111.9144.1464049664.21</SerialUID>
+		<ZOOMFLAG>0</ZOOMFLAG>
+		<WW>1500</WW>
+		<WL>200</WL>
+		<WIDTH>512</WIDTH>
+		<HEIGHT>469</HEIGHT>
+		<XOFF>0</XOFF>
+		<YOFF>0</YOFF>
+		<OFFSETX>0</OFFSETX>
+		<OFFSETY>0</OFFSETY>
+		<KEYIMAGE>0</KEYIMAGE>
+		<ViewRatio>1000</ViewRatio>
+		<FocusX>256</FocusX>
+		<FocusY>234</FocusY>
+		<Print>(1500,200,1,10001)</Print>
+	</Set>
+</ImageInfo>
+

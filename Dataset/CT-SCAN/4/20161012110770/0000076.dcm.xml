@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImageInfo>
+	<Set>
+		<StudayUID>1.2.840.113704.1.111.6468.1476234851.1</StudayUID>
+		<SerialUID>1.2.840.113704.1.111.6468.1476234944.134</SerialUID>
+		<ZOOMFLAG>0</ZOOMFLAG>
+		<WW>360</WW>
+		<WL>40</WL>
+		<WIDTH>1024</WIDTH>
+		<HEIGHT>1024</HEIGHT>
+		<XOFF>0</XOFF>
+		<YOFF>0</YOFF>
+		<OFFSETX>0</OFFSETX>
+		<OFFSETY>0</OFFSETY>
+		<KEYIMAGE>0</KEYIMAGE>
+		<ViewRatio>1000</ViewRatio>
+		<FocusX>512</FocusX>
+		<FocusY>512</FocusY>
+	</Set>
+</ImageInfo>
+

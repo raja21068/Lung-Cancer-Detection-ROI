@@ -1,0 +1,14 @@
+ImageSetID = 0;
+PatientID = 0;
+ImageName = "";
+NameFromScanner = "";
+ExamID = "20024699580";
+StudyID = "26358";
+Modality = "CT";
+NumberOfImages = 90;
+ScanTimeFromScanner = "2011-10-26 11:06:15";
+FileName = "";
+SeriesDescription = "";
+MRN = "1007322";
+
+/* o] */

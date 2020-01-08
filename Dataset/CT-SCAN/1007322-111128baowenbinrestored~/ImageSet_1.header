@@ -1,0 +1,64 @@
+	byte_order = 0;
+	read_conversion = "";
+	write_conversion = "";
+	t_dim = 0;
+	x_dim = 512;
+	y_dim = 512;
+	z_dim = 93;
+	datatype = 1;
+	bitpix = 16;
+	bytes_pix = 2;
+	vol_max = 0.000000;
+	vol_min = 0.000000;
+	t_pixdim = 0.000000;
+	x_pixdim = 0.107422;
+	y_pixdim = 0.107422;
+	z_pixdim = 0.500000;
+	t_start = 0.000000;
+	x_start = -28.299999;
+	y_start = -75.992577;
+	z_start = 38.150002;
+	z_time = 0.000000;
+	dim_units : 
+	voxel_type : 
+	id = 0;
+	vis_only = 0;
+	data_type : 
+	vol_type : 
+	db_name : bao wen bin-111128
+	medical_record : 
+	originator : 
+	date : 
+	scanner_id : 
+	patient_position : HFS
+	orientation = 0;
+	scan_acquisition = 0;
+	comment : 
+	fname_format : 
+	fname_index_start = 0;
+	fname_index_delta = 0;
+	binary_header_size = 0;
+	manufacturer : Philips
+	model : Brilliance Big Bore
+	couch_pos = 0.000000;
+	couch_height = 19.100000;
+	X_offset = -0.800000;
+	Y_offset = 0.000000;
+	dataset_modified = 0;
+	study_id : 27103
+	exam_id : 16825687100
+	patient_id : 1007322-111128
+	modality : CT
+	gating_type : 
+	gating_value : 
+	gating_UID : 
+	Series_Description : 
+	Scan_Options : HELIX
+	Low_Sag : 453567-129831
+	Negative_Voxel : Yes
+	Station_Name : HOST-7261
+	KVP : 120
+	SeriesDateTime : 2011-11-28 09:51:49
+	Version : 9.0
+	x_start_dicom = -28.299999;
+	y_start_dicom = -33.792580;
